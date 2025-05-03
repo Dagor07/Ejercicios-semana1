@@ -1,0 +1,56 @@
+# Desafío IA: Transformando un Proceso Tradicional
+
+## 1. Introducción
+
+En este documento se presenta una propuesta para transformar el proceso tradicional de atención al cliente en una empresa de telecomunicaciones mediante el uso de inteligencia artificial (IA). Actualmente, el soporte se brinda principalmente a través de agentes humanos en call centers, lo que genera altos costos operativos y tiempos de espera prolongados. La incorporación de IA busca optimizar la experiencia del cliente, aumentar la eficiencia del sistema y reducir los costos.
+
+## 2. Descripción del Proceso Tradicional
+
+**Situación actual:**  
+La atención al cliente se realiza por medio de llamadas telefónicas a un centro de soporte. Cada solicitud es atendida por un operador humano, quien identifica el problema, ofrece posibles soluciones y deriva el caso en caso de ser necesario.
+
+**Problemas o limitaciones del método tradicional:**  
+- **Tiempos de espera prolongados** durante horarios de alta demanda.  
+- **Altos costos operativos** asociados al personal humano y la infraestructura del call center.  
+- **Respuestas inconsistentes** entre agentes.  
+- **Falta de escalabilidad** en períodos de gran volumen de consultas.  
+- **Dificultad para análisis en tiempo real** de problemas recurrentes o emergentes.
+
+## 3. Propuesta de Solución con IA
+
+**Objetivo de la solución:**  
+Optimizar el servicio de atención al cliente mediante un asistente virtual inteligente que atienda de forma automática las consultas frecuentes y derive únicamente los casos complejos a agentes humanos.
+
+**Descripción de la solución IA:**  
+- **Tecnología empleada:**  
+  - Procesamiento de Lenguaje Natural (NLP) para comprender preguntas y respuestas en lenguaje humano.  
+  - Motor de diálogo tipo chatbot entrenado con preguntas frecuentes (FAQs).  
+  - Integración con sistemas de gestión de clientes (CRM) para ofrecer respuestas personalizadas.
+
+- **Integración en el flujo actual:**  
+  - El cliente inicia el contacto a través de un chat en la web o app.  
+  - El sistema IA analiza el mensaje y responde automáticamente si se trata de una consulta frecuente.  
+  - En casos complejos o si el usuario lo solicita, se transfiere la sesión a un agente humano.  
+  - El sistema recopila métricas en tiempo real y alimenta el modelo con nuevos datos.
+
+**Beneficios esperados:**  
+- Respuesta inmediata a la mayoría de las consultas.  
+- Reducción de hasta un 60% en los costos operativos.  
+- Mejora en la calidad y coherencia de las respuestas.  
+- Disponibilidad 24/7 sin necesidad de ampliar turnos.  
+- Identificación de patrones y tendencias en consultas.
+
+## 4. Comparativa entre Procesos
+
+| Aspecto                    | Proceso Tradicional              | Solución con IA                         |
+|----------------------------|----------------------------------|-----------------------------------------|
+| Velocidad de respuesta     | Lento (espera de varios minutos) | Inmediato en la mayoría de los casos   |
+| Costo operativo            | Alto                             | Significativamente más bajo             |
+| Consistencia de respuestas | Variable entre agentes           | Homogénea, basada en base de conocimiento |
+| Adaptabilidad              | Limitada a protocolos rígidos    | Flexible y en aprendizaje continuo      |
+| Horario de atención        | Limitado                         | 24/7                                    |
+| Escalabilidad              | Requiere más personal            | Escala automáticamente con demanda      |
+
+## 5. Reflexión Personal
+
+La transformación digital de procesos mediante IA demuestra un impacto directo y tangible en la eficiencia operativa y la experiencia del usuario. Sin embargo, la implementación efectiva requiere más que tecnología: es necesario asegurar una integración fluida con los sistemas existentes, contar con datos de calidad para entrenar los modelos y establecer una supervisión ética constante. La IA no debe reemplazar completamente la interacción humana, sino complementar y potenciar su alcance, dejando a los agentes humanos los casos que requieren empatía, juicio o análisis complejos.
